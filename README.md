@@ -1,4 +1,4 @@
-## Entrega_Prova_2_TI
+## Entrega_Prova_2_T.I.
 ## Disciplina de Tópicos Integradores (David Leal)
 ## Avaliação de Tópicos Integradores
 ## Professor: David Leal
